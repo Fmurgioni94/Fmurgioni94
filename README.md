@@ -1,0 +1,4 @@
+- Hi, I’m @Fmurgioni94 a passionate software engineering student with a deep love for programming.
+- I’m interested in Machine learning and Artificial intelligence
+- I’m currently learning Java and Swift
+- In my free time I like to develop apps and video games
